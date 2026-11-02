@@ -43,3 +43,8 @@ Part 4 - Animations
 Task 8 - Animation
 
 I created three skill bars for HTML, CSS and JavaScript. I used animate to change their width.
+
+<img width="1916" height="908" alt="{85528C2C-6129-4E9D-8998-5186FFE94601}" src="https://github.com/user-attachments/assets/d322ff7c-4427-4afa-ae0e-1586017ed56b" />
+<img width="1920" height="831" alt="{11B3C5EE-4CF8-4B4D-B285-5A0234CBC7C2}" src="https://github.com/user-attachments/assets/db3dd7af-06ee-4c9b-b2f5-d3aee9f26e1a" />
+
+
